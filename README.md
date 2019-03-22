@@ -1,7 +1,7 @@
-JavaScript Jest Demo
-====================
+JavaScript Jest Config Demo
+===========================
 
-首先Jest看起来是一个测试框架，提供了类似于mocha/jasmine那样的`test/expect`等函数。
+使用`jest --init`可以生成一个`jest.config.js`文件，包含常用配置。
 
 ```
 npm install
